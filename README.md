@@ -266,7 +266,7 @@ $
 ## Authors & Copyrights
 
 * Magdalene Eniang <[Wildflower1713](https://github.com/Wildflower1713)>
-* Edward Ortiz <[aeodogbor](https://github.com/aeodogbor)>
+* Emmanuel Odogbor <[aeodogbor](https://github.com/aeodogbor)>
 
 ## More information
 
